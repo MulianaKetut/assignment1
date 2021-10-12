@@ -13,8 +13,11 @@ public class O11_I_Ketut_Muliana_assignment1
         {
             do
             {
-                Console.WriteLine("\n=== SELAMAT DATANG ===");
-                Console.WriteLine("Menu yang tersedia: ");
+                Console.WriteLine("\n=== SELAMAT DATANG DI ASSIGNMENT 1 ===");
+                Console.WriteLine("Nama : I Ketut Muliana");
+                Console.WriteLine("Nomor Peserta : FSDO001ONL011");
+                Console.WriteLine("Alamat : Surabaya");
+                Console.WriteLine("\nMenu yang tersedia: ");
                 Console.WriteLine("1. Segitiga Alfabet");
                 Console.WriteLine("2. Segitiga Angka");
                 Console.WriteLine("3. Faktorial");
